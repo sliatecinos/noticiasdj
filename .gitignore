@@ -1,0 +1,6 @@
+# Ignora arquivos de dados output JSON
+data.json
+
+# Ignora arquivos .workspace #
+*.code-workspace
+
